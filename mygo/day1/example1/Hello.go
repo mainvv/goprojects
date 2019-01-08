@@ -45,7 +45,7 @@ func main() {
 	swap02(&x, &y)
 	fmt.Printf("a = %d, b = %d\n", x, y)
 }
-
+//求大小值
 func MinAndMax(num1 int, num2 int) (min int, max int) {
 
 	if num1 > num2 {
